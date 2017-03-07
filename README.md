@@ -4,8 +4,8 @@ Pojęcia ekonomiczne
 -------------------
 
 **Spis treści**
-* [1. Pojęcia](README.md#pojęcia-ekonomiczne)
-* [2. Nosy](README.md#nosy)
+1. [Pojęcia](README.md#pojęcia-ekonomiczne)
+2. [Nosy](README.md#nosy)
 
 
 >>>
