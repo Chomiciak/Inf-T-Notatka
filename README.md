@@ -52,8 +52,8 @@ Stopa lombardowa | Stopa podstawowa | Stopa międzybankowa | Moja stopa
 
 
 
- Tekst skopiowany z Wikipedii
- ----------------------------
+Tekst skopiowany z Wikipedii
+----------------------------
  
 **Barter wielostronny** - umożliwia wymianę dóbr i usług w ramach społeczności barterowej, niekoniecznie w ramach jednej transakcji. W odróżnieniu od pierwotnej formy, gdzie dokonywana była wymiana dóbr uznanych przez obie strony transakcji za równowartościowe, barter wielostronny polega na rejestrowaniu kolejnych transakcji kupna/sprzedaży barterowej pomiędzy uczestnikami. Każdy uczestnik społeczności barterowej powinien dbać o to, aby dokonywać transakcji zarówno kupna jak i sprzedaży w sposób zrównoważony i dążyć do tego, aby przy możliwie dużych obrotach zachowywać saldo swoich transakcji w ramach przyznanego mu limitu barterowego. Jest to współczesna forma zaspokajania potrzeb bez użycia gotówki. Rozliczenia barterowe w żaden sposób nie naruszają przepisów prawa podatkowego. Każda transakcja barterowa powinna być rejestrowana w systemie ksiąg rachunkowych tak samo, jak transakcje gotówkowe i powodować identyczne skutki podatkowe. Jedynie rozliczenia pomiędzy kontrahentami odbywają się bez użycia gotówki, co ułatwia wzrost skali działalności bez angażowania środków finansowych – gotówki czy kredytu bankowego.
 
