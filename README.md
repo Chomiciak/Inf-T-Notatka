@@ -6,7 +6,7 @@ Pojęcia ekonomiczne
 **Spis treści**
  1. [Pojęcia](README.md#pojęcia-ekonomiczne)
  2. [Nosy](README.md#nosy)
- 3. [Tekst skopiowany z Wikipedii](README.md#tekst-skopiowany-z-Wikipedii)
+ 3. [Tekst skopiowany z Wikipedii](README.md#tekst-skopiowany-z-wikipedii)
 
 
 >>>
