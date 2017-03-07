@@ -3,7 +3,7 @@ Podstawy przedsiębiorczości
 Pojęcia ekonomiczne
 -------------------
 
-![link](#pojęcia-ekonomiczne)
+[link](?#pojęcia-ekonomiczne)
 
 
 pages:
