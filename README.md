@@ -1,2 +1,2 @@
-# Inf-T-Notatka
-Testowa notatka; pokaz języka Markdown
+# Podstawy przedsiębiorczości
+## Pojęcia ekonomiczne
