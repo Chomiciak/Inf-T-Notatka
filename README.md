@@ -43,7 +43,7 @@ Ekonomiaaa
 #### to części ciała w ludzkim ciele; ale czy nie powstają w umyśle?
 
 
-Stopa lombardowa | Stopa podstawowa | Stopa międzybankowa
-:----------- |:-------------:| -----------:
-1%         | 2%        | 2%
-1.6%         | 3.5%        | 1.5%
+Stopa lombardowa | Stopa podstawowa | Stopa międzybankowa | Moja stopa
+:----------- |:-------------:| -----------: | ------------
+1%         | 2%        | 2% | 50
+1.6%         | 3.5%        | 1.5% | 51
