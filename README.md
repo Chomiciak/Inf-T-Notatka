@@ -21,7 +21,7 @@ Ekonomiaaa
 ![Screenshot](http://thecatapi.com/api/images/get?format=src&type=gif)
 
  **Bank**  to instytucja zaufania publicznego cechująca się zaufaniem publicznym.
-
+ **Barter** – wymiana bezgotówkowa, czyli towar (bądź usługa) za towar (bądź usługę). Strony uzgadniają wartość towarów lub usług i dążą do tego, żeby bilans był zerowy.
 > ## Lista pojęć ekonomicznych
 > 
 > 1.   Bank
